@@ -7,7 +7,12 @@ h1. Preconditions:
     brew -v
     brew update
     brew install node
-
+3. Dependencies
+    Playwright v1.33.0
+    Node v19.8.1
+    npm v9.6.5
+    VSCode 1.77.3 (Universal)
+    Applitools v1.17.0
 
 h1. How to Start:
 
